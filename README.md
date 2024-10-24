@@ -32,52 +32,56 @@ Welcome to CrudNimap! This is a powerful CRUD (Create, Read, Update, Delete) app
     
    `GET http://localhost:8080/api/categories?page=0`
 
-![Screenshot 2024-10-16 160150](https://github.com/user-attachments/assets/5209ddae-bdce-45a9-9461-16b60508cfb5)
+![Screenshot 2024-10-24 074822](https://github.com/user-attachments/assets/879cf76e-0ca7-49ba-84de-9821b39dbbe8)
+
 
 2. **Create New Category**  
  
    `POST http://localhost:8080/api/categories`
-![Screenshot 2024-10-17 064024](https://github.com/user-attachments/assets/c3b6b7e9-c8b9-4683-8b0a-eaef35018e70)
+![Screenshot 2024-10-24 074958](https://github.com/user-attachments/assets/f32ad7f2-4beb-402b-9f38-9c79e722c3b3)
 
 3. **Get Category by ID**  
     
    `GET http://localhost:8080/api/categories/{id}`
-![Screenshot 2024-10-16 135811](https://github.com/user-attachments/assets/2e9cc11c-6420-4849-9ee5-a8aeb9c8053f)
+![Screenshot 2024-10-24 075052](https://github.com/user-attachments/assets/b10f073d-42e4-4306-a63a-78e9793ac572)
 
 4. **Update Category by ID**  
   
    `PUT http://localhost:8080/api/categories/{id}`
-![Screenshot 2024-10-16 140130](https://github.com/user-attachments/assets/31c9ed08-1d6c-425f-8788-7d41f71a48f6)
+![Screenshot 2024-10-24 081033](https://github.com/user-attachments/assets/cfcec78a-b6e4-44c1-9a8b-378cf218bf1f)
 
 5. **Delete Category by ID**  
   
    `DELETE http://localhost:8080/api/categories/{id}`
-![Screenshot 2024-10-16 140203](https://github.com/user-attachments/assets/372c4f51-fa38-4527-a6f7-5231fe2619aa)
+![Screenshot 2024-10-24 081148](https://github.com/user-attachments/assets/2ed80886-b581-415b-bc62-084ffa286df6)
 
 ### Product CRUD Operations
 
 1. **Get All Products (with Pagination)**  
   
    `GET http://localhost:8080/api/products?page=2`
+![Screenshot 2024-10-24 081236](https://github.com/user-attachments/assets/894b80ff-9a7b-4503-8519-fb3b231ca943)
 
 2. **Create New Product**  
    
    `POST http://localhost:8080/api/products`
+![Screenshot 2024-10-24 081645](https://github.com/user-attachments/assets/154f3ee6-fdc1-451a-8401-6be70b7017f6)
 
 3. **Get Product by ID**  
   
    `GET http://localhost:8080/api/products/{id}`  
-  
+  ![Screenshot 2024-10-24 081742](https://github.com/user-attachments/assets/c7bea9bc-2489-4a22-9014-80016693b990)
+
 
 4. **Update Product by ID**  
  
    `PUT http://localhost:8080/api/products/{id}`
-![Screenshot 2024-10-17 064511](https://github.com/user-attachments/assets/03029e56-a58a-41da-a92b-a4888eb1a847)
+![Screenshot 2024-10-24 082007](https://github.com/user-attachments/assets/2b2eb51c-d7e2-4b33-9cbc-e0d4041610da)
 
 5. **Delete Product by ID**  
   
    `DELETE http://localhost:8080/api/products/{id}`
-![Screenshot 2024-10-17 064511](https://github.com/user-attachments/assets/ac7abe47-4b60-4dbb-8860-a684b49d6905)
+![Screenshot 2024-10-24 082118](https://github.com/user-attachments/assets/43dfadb2-364f-4f6f-8ebe-728adc2901ac)
 
 ## Getting Started
 
