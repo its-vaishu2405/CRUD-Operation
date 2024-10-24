@@ -83,6 +83,9 @@ Welcome to CrudNimap! This is a powerful CRUD (Create, Read, Update, Delete) app
    `DELETE http://localhost:8080/api/products/{id}`
 ![Screenshot 2024-10-24 082118](https://github.com/user-attachments/assets/43dfadb2-364f-4f6f-8ebe-728adc2901ac)
 
+6.**RDBMS MySql 
+![Screenshot 2024-10-24 082640](https://github.com/user-attachments/assets/ef9080c3-76d2-430c-8c39-48cb9b6acab9)
+
 ## Getting Started
 
 Follow these steps to set up the application on your local machine:
@@ -97,16 +100,16 @@ Follow these steps to set up the application on your local machine:
 
 1. **Clone the repository**:
   
-   git clone https://github.com/its-vaishu2405/CrudNimap.git
+   git clone https://github.com/its-vaishu2405/QuickCrud.git
   
 
 2. **Navigate to the project directory**:
  
-   cd CrudNimap
+   cd QuickCrud
   
 
 3. **Configure the MySQL database**:
-   - Create a database named `crudnimap`.
+   - Create a database named `nimapinfotech`.
    - Update the `application.properties` file with your MySQL credentials.
 
 4. Build the project:
@@ -121,7 +124,7 @@ Follow these steps to set up the application on your local machine:
 
 ### Accessing the Application
 
-Open your web browser and navigate to [http://localhost:8080](http://localhost:8080) to start using CrudNimap!
+Open your web browser and navigate to [http://localhost:8080](http://localhost:8080) to start using QuickCrud!
 
 ## Contributing
 
